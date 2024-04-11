@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 import altair as alt 
 import yfinance as yf
 import streamlit as st 
